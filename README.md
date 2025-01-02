@@ -92,7 +92,7 @@ Seamless payment solutions for:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/RailPath.git
+git clone https://github.com/krishkumar84/RailPath.git
 
 # Install dependencies
 cd RailPath
